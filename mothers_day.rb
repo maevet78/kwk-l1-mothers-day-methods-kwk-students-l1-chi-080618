@@ -1,8 +1,8 @@
 def mothers_day (mom = "Mom")
-  puts "Happy Mother's Day, #{mom}!"
+   "Happy Mother's Day, #{mom}!"
 end 
 
-mothers_day("Beyonce")
-mothers_day
+puts mothers_day("Beyonce")
+puts mothers_day
 
 
